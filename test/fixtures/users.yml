@@ -3,3 +3,9 @@ ryan:
   last_name: "Ebbers"
   email: "ebbers.seo@gmail.com"
   profile_name: "rubyBoss"
+
+john:
+  first_name: "John"
+  last_name: "Doe"
+  email: "john_doe@testing.com"
+  profile_name: "johnDoe"
